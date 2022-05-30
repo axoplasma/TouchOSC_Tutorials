@@ -4,7 +4,7 @@ Workaround for missing "include" function.
 TouchOSC scripts have a tendency of getting longer and longer. If only there was a possibility to split code into multiple sections. This when you will miss a function like include or require.
 Sounds familiar? This demo provides a hacky solution to this problem.
 
-[!Screenshot](AXO_Include_Workaround.png)
+![Screenshot](AXO_Include_Workaround.png)
 
 ## Step 01:
 
